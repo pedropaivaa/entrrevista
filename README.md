@@ -64,4 +64,10 @@ Aqui estão algumas perguntas comportamentais comuns que desenvolvedores podem e
 - Use o método STAR para estruturar suas respostas.
 - Concentre-se em suas ações e nos resultados que você alcançou.
 - Seja honesto e autêntico.
+
 - Quantifique seus resultados sempre que possível.
+
+- ---
+## Créditos
+
+O conteúdo deste guia foi extraído e adaptado da plataforma **Rockseat**, especificamente do módulo de Inglês Técnico para Desenvolvedores.
