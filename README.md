@@ -70,4 +70,5 @@ Aqui estão algumas perguntas comportamentais comuns que desenvolvedores podem e
 - ---
 ## Créditos
 
-O conteúdo deste guia foi extraído e adaptado da plataforma **Rockseat**, especificamente do módulo de Inglês Técnico para Desenvolvedores.
+O conteúdo deste guia foi extraído da plataforma **Rockseat**, especificamente do módulo de Inglês Técnico para Dev.
+
